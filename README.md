@@ -21,3 +21,6 @@ npm start
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/58137977/232091538-dfeb9f09-ed0a-4c8d-8437-b0816b7bec01.png">
+
+
