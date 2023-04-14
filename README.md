@@ -21,6 +21,10 @@ npm start
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
+
 <img width="751" alt="image" src="https://user-images.githubusercontent.com/58137977/232091538-dfeb9f09-ed0a-4c8d-8437-b0816b7bec01.png">
 
+## Editing responses 
+You can edit the responses that the chatbot makes by going to `ChatWindow.js` and editing the _responses_ array. You can also add a response to a given category and the chatbot will randomly choose which response to give to the customer.
 
